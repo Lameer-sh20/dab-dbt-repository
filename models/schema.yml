@@ -12,4 +12,8 @@ models:
       - name: qty_91
         tests:
           - not_null
+          
+      - name: avg_daily_qty_91
+        tests:
+          - not_null
               
